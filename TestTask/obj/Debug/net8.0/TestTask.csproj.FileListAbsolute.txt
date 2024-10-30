@@ -1,0 +1,17 @@
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.AssemblyInfo.cs
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\TestTask.exe
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\TestTask.deps.json
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\TestTask.runtimeconfig.json
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\TestTask.dll
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\TestTask.pdb
+C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.csproj.Up2Date
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.dll
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\refint\TestTask.dll
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.pdb
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\TestTask.genruntimeconfig.cache
+C:\Users\MSI\source\repos\TestTask\TestTask\obj\Debug\net8.0\ref\TestTask.dll

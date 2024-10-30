@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "urUqeZNUQ6g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\TestTask\\TestTask\\TestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

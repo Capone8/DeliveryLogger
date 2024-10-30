@@ -1,0 +1,149 @@
+OrderId,Weight,CityDistrict,DeliveryTime
+1,2.5,Downtown,2023-10-29 08:10:00
+2,1.2,Suburbs,2023-10-29 08:20:00
+3,3.1,Downtown,2023-10-29 08:25:00
+4,0.9,Uptown,2023-10-29 08:35:00
+5,2.8,Downtown,2023-10-29 08:45:00
+6,1.5,Suburbs,2023-10-29 08:50:00
+7,3.3,Downtown,2023-10-29 08:55:00
+8,2.2,Uptown,2023-10-29 09:05:00
+9,1.7,Downtown,2023-10-29 09:10:00
+10,2.4,Downtown,2023-10-29 09:20:00
+2024-10-30 20:12:57 [INFO] Starting to filter orders
+2024-10-30 20:12:57 [INFO] Total orders founded: 0
+2024-10-30 20:12:57 [Success] Filtering is done
+2024-10-30 20:13:45 [INFO] Starting to filter orders
+2024-10-30 20:13:45 [INFO] Total orders founded: 0
+2024-10-30 20:13:45 [Success] Filtering is done
+2024-10-30 20:13:54 [INFO] Starting to filter orders
+2024-10-30 20:13:54 [INFO] Total orders founded: 0
+2024-10-30 20:13:54 [Success] Filtering is done
+2024-10-30 20:17:18 [INFO] Starting to filter orders
+2024-10-30 20:17:18 [INFO] Total orders founded: 2
+2024-10-30 20:17:18 [Success] Filtering is done
+2024-10-30 20:17:35 [INFO] Starting to filter orders
+2024-10-30 20:17:35 [INFO] Total orders founded: 2
+2024-10-30 20:17:35 [Success] Filtering is done
+2024-10-30 20:17:50 [INFO] Starting to filter orders
+2024-10-30 20:17:50 [INFO] Total orders founded: 2
+2024-10-30 20:17:50 [Success] Filtering is done
+2024-10-30 20:18:22 [INFO] Starting to filter orders
+2024-10-30 20:18:22 [INFO] Total orders founded: 2
+2024-10-30 20:18:22 [Success] Filtering is done
+2024-10-30 20:18:54 [INFO] Starting to filter orders
+2024-10-30 20:18:54 [INFO] Total orders founded: 2
+2024-10-30 20:18:54 [Success] Filtering is done
+2024-10-30 20:36:12 [INFO] Starting to filter orders
+2024-10-30 20:36:12 [INFO] Total orders founded: 2
+2024-10-30 20:36:12 [Success] Filtering is done
+2024-10-30 20:42:15 [INFO] Starting to filter orders
+2024-10-30 20:42:15 [INFO] Total orders founded: 2
+2024-10-30 20:42:15 [Success] Filtering is done
+2024-10-30 20:42:39 [INFO] Starting to filter orders
+2024-10-30 20:42:39 [INFO] Total orders founded: 2
+2024-10-30 20:42:39 [Success] Filtering is done
+2024-10-30 20:43:15 [INFO] Starting to filter orders
+2024-10-30 20:43:15 [ERROR] An unexpected error occurred: The conversion cannot be performed.
+    Text: '2023-29-10 08:10:00'
+    MemberName: DeliveryTime
+    MemberType: System.DateTime
+    TypeConverter: 'CsvHelper.TypeConversion.DateTimeConverter'
+IReader state:
+   ColumnCount: 4
+   CurrentIndex: 3
+   HeaderRecord:
+["OrderId","Weight","CityDistrict","DeliveryTime"]
+IParser state:
+   ByteCount: 0
+   CharCount: 78
+   Row: 2
+   RawRow: 2
+   Count: 4
+   RawRecord:
+1,2.5,Downtown,2023-29-10 08:10:00
+
+
+2024-10-30 20:43:15 [INFO] Total orders founded: 0
+2024-10-30 20:43:15 [Success] Filtering is done
+2024-10-30 20:43:38 [INFO] Starting to filter orders
+2024-10-30 20:43:38 [ERROR] An unexpected error occurred: The conversion cannot be performed.
+    Text: '2023-29-10 08:10:00'
+    MemberName: DeliveryTime
+    MemberType: System.DateTime
+    TypeConverter: 'CsvHelper.TypeConversion.DateTimeConverter'
+IReader state:
+   ColumnCount: 4
+   CurrentIndex: 3
+   HeaderRecord:
+["OrderId","Weight","CityDistrict","DeliveryTime"]
+IParser state:
+   ByteCount: 0
+   CharCount: 78
+   Row: 2
+   RawRow: 2
+   Count: 4
+   RawRecord:
+1,2.5,Downtown,2023-29-10 08:10:00
+
+
+2024-10-30 20:43:38 [INFO] Total orders founded: 0
+2024-10-30 20:43:38 [Success] Filtering is done
+2024-10-30 20:44:14 [INFO] Starting to filter orders
+2024-10-30 20:44:14 [ERROR] An unexpected error occurred: The conversion cannot be performed.
+    Text: '2023-29-10 08:10:00'
+    MemberName: DeliveryTime
+    MemberType: System.DateTime
+    TypeConverter: 'CsvHelper.TypeConversion.DateTimeConverter'
+IReader state:
+   ColumnCount: 4
+   CurrentIndex: 3
+   HeaderRecord:
+["OrderId","Weight","CityDistrict","DeliveryTime"]
+IParser state:
+   ByteCount: 0
+   CharCount: 78
+   Row: 2
+   RawRow: 2
+   Count: 4
+   RawRecord:
+1,2.5,Downtown,2023-29-10 08:10:00
+
+
+2024-10-30 20:44:14 [INFO] Total orders founded: 0
+2024-10-30 20:44:14 [Success] Filtering is done
+2024-10-30 20:45:02 [INFO] Starting to filter orders
+2024-10-30 20:45:02 [INFO] Total orders founded: 2
+2024-10-30 20:45:02 [Success] Filtering is done
+2024-10-30 20:48:58 [INFO] Starting to filter orders
+2024-10-30 20:48:58 [INFO] Total orders founded: 2
+2024-10-30 20:48:58 [Success] Filtering is done
+2024-10-30 20:49:14 [INFO] Starting to filter orders
+2024-10-30 20:49:14 [ERROR] An unexpected error occurred: The process cannot access the file 'C:\Users\MSI\source\repos\TestTask\TestTask\bin\Debug\net8.0\orders.csv' because it is being used by another process.
+2024-10-30 20:49:14 [INFO] Total orders founded: 0
+2024-10-30 20:49:14 [Success] Filtering is done
+2024-10-30 20:49:35 [INFO] Starting to filter orders
+2024-10-30 20:49:36 [INFO] Total orders founded: 2
+2024-10-30 20:49:36 [Success] Filtering is done
+2024-10-30 20:50:12 [INFO] Starting to filter orders
+2024-10-30 20:50:12 [ERROR] An unexpected error occurred: The conversion cannot be performed.
+    Text: '2023-29-10 08:10:00'
+    MemberName: DeliveryTime
+    MemberType: System.DateTime
+    TypeConverter: 'CsvHelper.TypeConversion.DateTimeConverter'
+IReader state:
+   ColumnCount: 4
+   CurrentIndex: 3
+   HeaderRecord:
+["OrderId","Weight","CityDistrict","DeliveryTime"]
+IParser state:
+   ByteCount: 0
+   CharCount: 78
+   Row: 2
+   RawRow: 2
+   Count: 4
+   RawRecord:
+1,2.5,Downtown,2023-29-10 08:10:00
+
+
+2024-10-30 20:50:12 [INFO] Total orders founded: 0
+2024-10-30 20:50:12 [Success] Filtering is done
